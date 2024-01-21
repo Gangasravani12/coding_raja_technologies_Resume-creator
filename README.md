@@ -57,7 +57,7 @@ The Resume Builder is a web application that allows users to create a profession
 
 **Author**
 
-   [![sravani](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ganga-sravani-484343221/)
+   [![sravani](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ganga-sravani/)
 
 
 **Styling and Customization**
